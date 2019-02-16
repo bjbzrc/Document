@@ -1,2 +1,2 @@
 # Document
-My repo for the INFOTC 2040 Document challenge
+My repo for the INFOTC 2040 Document challenge (incomplete)
